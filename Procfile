@@ -1,1 +1,1 @@
-web: pip install . -U && patrick-run
+web: pip install . -U && patrick-2000-run
